@@ -4,6 +4,30 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/practice-3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/practice-3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/practice-4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/practice-4" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/practice-5" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/practice-5" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/redis-cache" />
         <option name="modules">
           <set>
