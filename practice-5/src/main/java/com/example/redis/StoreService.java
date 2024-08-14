@@ -66,6 +66,7 @@ public class StoreService {
     }
 
     // 삭제될 경우 단일 캐시, 전체 캐시 전부 초기화.
+    // Caching 규칙이 두 개이상일 경우 @Caching 사용한다.
     @Caching(evict = {
             @CacheEvict(cacheNames = "storeCache", key = "args[0]"),
             @CacheEvict(cacheNames = "storeAllCache", allEntries = true)
